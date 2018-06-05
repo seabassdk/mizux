@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Bootstrap 4 workflow",
   "main": "index.js",
-  "scripts": {
-    "start": "gulp"
-  },
   "author": "Sebastian",
   "license": "MIT",
   "dependencies": {
@@ -13,11 +10,6 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.0"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.18.13",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
   },
   "engines": {
     "node": "8.9.4"
