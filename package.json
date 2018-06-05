@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
+  "author": "Seb",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
@@ -16,17 +16,5 @@
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seabassdk/mizux.git"
-  },
-  "keywords": [
-    "twitterbootstrap",
-    "project"
-  ],
-  "bugs": {
-    "url": "https://github.com/seabassdk/mizux/issues"
-  },
-  "homepage": "https://github.com/seabassdk/mizux#readme"
+  "devDependencies": {}
 }
