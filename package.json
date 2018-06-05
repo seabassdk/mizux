@@ -15,5 +15,18 @@
     "popper.js": "^1.12.0",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seabassdk/mizux.git"
+  },
+  "keywords": [
+    "twitterbootstrap",
+    "project"
+  ],
+  "bugs": {
+    "url": "https://github.com/seabassdk/mizux/issues"
+  },
+  "homepage": "https://github.com/seabassdk/mizux#readme"
 }
